@@ -1,0 +1,19 @@
+# Weak (One # for regular comment)
+1 vulnerable
+2 follower
+3 submissive
+4 ineffective
+# Strong
+5 powerful
+6 leader
+7 dominant
+8 competent
+## Room (Two # to signal that the following words are in second category)
+9 drafty
+10 furnished
+11 leaky
+12 rented
+13 spacious
+14 carpeted
+15 cluttered
+16 well-lit

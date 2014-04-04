@@ -1,0 +1,16 @@
+1 faces/01Adams.jpeg
+2 faces/02Bustos.jpeg
+3 faces/03Cummings.jpeg
+4 faces/04Edwards.jpeg
+5 faces/05Fincher.jpeg
+6 faces/06Huffman.jpeg
+7 faces/07JacksonLee.jpeg
+8 faces/08Jenkins.jpeg
+9 faces/09Kilpatrick.jpeg
+10 faces/10Maffei.jpeg
+11 faces/11McKinney.jpeg
+12 faces/12Schwartz.jpeg
+13 faces/13Scott.jpeg
+14 faces/14Veasey.jpeg
+15 faces/15Watts.jpeg
+16 faces/16Wilson.jpeg
