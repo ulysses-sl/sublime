@@ -1,6 +1,10 @@
-1 faces/00Mask0.jpeg
-1 faces/00Mask1.jpeg
-1 faces/00Mask2.jpeg
-1 faces/00Mask3.jpeg
-1 faces/00Mask4.jpeg
-1 faces/00Mask5.jpeg
+# faces/00Mask0.jpeg
+# faces/00Mask1.jpeg
+# faces/00Mask2.jpeg
+# faces/00Mask3.jpeg
+# faces/00Mask4.jpeg
+# faces/00Mask5.jpeg
+# faces/00MaskBigBW.jpeg
+1 faces/00MaskBigBWG.jpeg
+# faces/00MaskBigColor.jpeg
+# faces/00MaskFaceNoise.jpeg
