@@ -1,0 +1,4 @@
+# this is a setting file for practice trial set.
+# format: (number) (pic) (word)
+1 faces/00PracticeFace.jpeg punctual
+2 faces/00PracticeItem.jpeg four-legged

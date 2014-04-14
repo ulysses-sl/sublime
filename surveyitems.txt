@@ -1,0 +1,3 @@
+'id', 'age', 'gender', 'ethnicity',
+'polDem', 'polRep', 'polInd', 'polLib', 'polCon'
+

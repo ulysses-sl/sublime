@@ -1,20 +1,20 @@
 ## Pictures to Flash
-# WF
+# W F
 1 faces/01Adams.jpeg
 2 faces/02Bustos.jpeg
 3 faces/03Jenkins.jpeg
 4 faces/04Schwartz.jpeg
-# BF
+# B F
 5 faces/05JacksonLee.jpeg
 6 faces/06Kilpatrick.jpeg
 7 faces/07McKinney.jpeg
 8 faces/08Edwards.jpeg
-# WM
+# W M
 9 faces/09Fincher.jpeg
 10 faces/10Huffman.jpeg
 11 faces/11Maffei.jpeg
 12 faces/12Wilson.jpeg
-# BM
+# B M
 13 faces/13Scott.jpeg
 14 faces/14Veasey.jpeg
 15 faces/15Watts.jpeg
